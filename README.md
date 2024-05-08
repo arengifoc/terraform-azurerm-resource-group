@@ -36,4 +36,5 @@ This module allows creating Resource Groups in Azure
 | Name | Description |
 |------|-------------|
 | <a name="output_id"></a> [id](#output\_id) | The ID of the Resource Group. |
+| <a name="output_name"></a> [name](#output\_name) | The name of the Resource Group. |
 <!-- END_TF_DOCS -->
